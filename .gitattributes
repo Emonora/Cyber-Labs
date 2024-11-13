@@ -2,3 +2,5 @@
 *.md linguist-documentation=false
 *.pptx linguist-detectable=true
 *.pptx linguist-documentation=false
+*.conf linguist-detectable=true
+*.conf linguist-documentation=false
